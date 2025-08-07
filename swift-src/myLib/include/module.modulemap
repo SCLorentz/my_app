@@ -1,0 +1,5 @@
+module myLib {
+    header "test.h"
+
+    export *
+}
